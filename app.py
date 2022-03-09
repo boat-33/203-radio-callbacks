@@ -10,7 +10,7 @@ import plotly.graph_objs as go
 myheading1='Jazz Greats in History'
 tabtitle = 'jazz'
 list_of_options=['Art Blakey Drumming', 'Hugh Masekela', 'Ornette Coleman', 'Don Cherry']
-list_of_images=['art_blakey.jpg', 'hugh_masekela.png', 'ornette_coleman.jpg', 'don_cherry.jpg', 'sonny_rollins.jpg']
+list_of_images=['art_blakey.jpg', 'hugh_masekela.jpg', 'ornette_coleman.jpg', 'don_cherry.jpg', 'sonny_rollins.jpg']
 sourceurl = 'https://xkcd.com/'
 githublink = 'https://github.com/plotly-dash-apps/203-radio-callbacks'
 
